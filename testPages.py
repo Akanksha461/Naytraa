@@ -50,6 +50,7 @@ class TestPages(unittest.TestCase):
         no_username = mainPage.login_without_username("user_blank")
         time.sleep(5)
         self.assertEquals("Email Required",no_username)
+        
 
 
     def test_without_user_pass(self):
