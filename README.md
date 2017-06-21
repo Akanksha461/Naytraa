@@ -1,3 +1,10 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Page Object Model](https://github.com/zac11/Naytraa#page-object-model)
+- [Page Object Model Example](https://github.com/zac11/Naytraa#page-object-model-example)
+- [File Flow](https://github.com/zac11/Naytraa#file-flow)
+- [Running Tests](https://github.com/zac11/Naytraa#running-tests)
+
 # Page Object Model
 
 Starting an UI Automation in Selenium WebDriver is NOT a tough task. You just need to find elements, perform operations on it.
